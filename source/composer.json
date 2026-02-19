@@ -1,0 +1,20 @@
+{
+    "name": "rustam/source",
+    "autoload": {
+        "psr-4": {
+            "App\\Projects\\": "../projects/",
+            "TitaniumFoundation\\Core\\": "core/"
+        },
+        "files": [
+            "boot/bootstrap.php",
+            "core/functions.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Rustam",
+            "email": "golevv.rustam@gmail.com"
+        }
+    ],
+    "require": {}
+}
