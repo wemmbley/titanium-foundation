@@ -1,4 +1,8 @@
-# Titanium Foundation
-Big framework for good foundation.
+## Big Framework for Big Foundation.
 
-<img src="preview.jpg">
+## Requirements
+- PHP 8.5
+- MySQL 8.0
+
+## Logotype
+<img src="docs/foundation.jpg">
